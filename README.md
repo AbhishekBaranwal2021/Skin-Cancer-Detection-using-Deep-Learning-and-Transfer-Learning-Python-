@@ -24,7 +24,7 @@ Steps:-
 10. Setting Optimizer
 11. Fitting the model
 12. Model Evaluation
-* ![Picture1_johnny](https://user-images.githubusercontent.com/58131790/156910764-a36ccc29-53ef-4609-a2a7-47b652fe3ab5.png)
+
 
 
 ## IMPORTANT LINKS FOR BETTER UNDERSTANDING
